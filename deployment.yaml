@@ -15,6 +15,6 @@ spec:
     spec:
       containers:
       - name: hello-app
-        image: ghcr.io/terry620033/hello-app:ae2e85b77b7586e6a0fe48ef2870768b56b903fd
+        image: ghcr.io/terry620033/hello-app:381f7dddb5b6954391d20e9804f909371e6c48c5
         ports:
         - containerPort: 5000
